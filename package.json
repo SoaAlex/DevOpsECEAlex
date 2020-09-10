@@ -1,0 +1,16 @@
+{
+  "name": "ece-devops",
+  "version": "1.0.0",
+  "description": "This is the Lab 1 of the DevOps course at ECE Paris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alexandre SOARES - ING4 SI Gr4B",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
